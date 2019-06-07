@@ -1,0 +1,1 @@
+# Qt_Cpp_Analiza_Sekwencji_Aminokwasowych
